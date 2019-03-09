@@ -8,7 +8,7 @@ Instructions:\
 <br>
 SPACEBAR    -> Generates a new Graph;\
 UP KEY      -> Doubles the size of the Graph;\
-DOWN KEY    -> Haves the size of the Grap;\
+DOWN KEY    -> Haves the size of the Graph;\
 LEFT & RIGHT KEYS -> Switches between Dijkstra's and Travelling Salesman Algorithm.\
 <br>
 Images:\
