@@ -1,8 +1,8 @@
 Random Graphs Generator\
 <br>
-Sistema interativo que gera grafos aleatórios, destacando o caminho mais curto e o caminho cíclico entre o primeiro e último vértice através dos algoritmos Dijkstra e Travelling Salesman.\
+Sistema interativo que gera grafos aleatórios, destacando o caminho mais curto e o caminho cíclico entre o primeiro e último vértice (levando em consideração os custos) através dos algoritmos Dijkstra e Travelling Salesman.\
 <br>
-Interactive system that generates random graphs, highlighting the shortest path and the ciclic path between the first and the last node using Dijkstra's Algorithm and The Travelling Salesman Algorithm.\
+Interactive system that generates random graphs, highlighting the shortest path and the ciclic path between the first and the last node (taking in consideration the cost) using Dijkstra's Algorithm and The Travelling Salesman Algorithm.\
 <br>
 Instructions:\
 <br>
@@ -12,7 +12,7 @@ DOWN KEY    -> Haves the size of the Grap;\
 LEFT & RIGHT KEYS -> Switches between Dijkstra's and Travelling Salesman Algorithm.\
 <br>
 Images:\
-<br><br>
+<br>
 ![Amostra 01](amostras/amostra01.png)
 <br><br>
 ![Amostra 02](amostras/amostra02.png)
